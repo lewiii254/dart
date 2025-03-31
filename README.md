@@ -26,9 +26,9 @@ This repo is constantly evolving as I learn new things! Stay tuned for awesome p
 
 ## 🤝 Connect With Me
 Got any tips, feedback, or just wanna vibe about Flutter? Hit me up!
-- 📧 Email: [Your Email Here]
-- 🐦 Twitter: [@YourHandle]
-- 💼 LinkedIn: [Your Profile]
+- 📧 [Email:](marklewismutugi@gmail.com)
+- 🐦 Twitter:(#)
+- 💼 LinkedIn:(#)
 
 🚀 Let’s build some awesome Flutter apps! **#KeepLearning #FlutterDev #DartLang**
 
